@@ -31,8 +31,8 @@ The layout is designed to be responsive, ensuring a seamless user experience acr
 ## Requirements
 To run this project, make sure you have the following:
 
-Node.js 
-npm 
+Node.js ,
+npm ,
 A modern web browser
 
 ## Installation
