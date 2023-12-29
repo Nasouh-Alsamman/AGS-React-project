@@ -4,12 +4,12 @@ It utilizes React's capabilities to structure the layout,
 display product cards with mock data, implement basic navigation,
 and ensure responsiveness across various screen sizes.
 
-##Table of Contents
-Overview
-Features
-Requirements
-Installation
-Usage
+##Table of Contents :
+Overview, 
+Features, 
+Requirements, 
+Installation, 
+Usage, 
 Documentation
 
 ## Overview
